@@ -43,6 +43,7 @@ Este repositorio contiene:
 ├── code/ # Scripts y herramientas
 ├── data/ # Conjuntos de datos
 ├── docs/ # Documentación y materiales educativos
+└── README.md # Este archivo
 
 ## Cómo Contribuir
 
