@@ -40,7 +40,6 @@ Este repositorio contiene:
 
 ## Estructura del Repositorio
 
-.
 ├── code/ # Scripts y herramientas
 
 ├── data/ # Conjuntos de datos
