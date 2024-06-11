@@ -39,13 +39,13 @@ Este repositorio contiene:
 - **Documentación**: Informes, publicaciones científicas y materiales educativos.
 
 ## Estructura del Repositorio
-
+```
 ├── code/ # Scripts y herramientas
 
 ├── data/ # Conjuntos de datos
 
 └── docs/ # Documentación y materiales educativos
-
+```
 ## Cómo Contribuir
 
 Estamos abiertos a colaboraciones y aportes de la comunidad. Aquí tienes algunas formas de contribuir:
