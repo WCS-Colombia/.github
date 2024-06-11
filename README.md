@@ -39,7 +39,8 @@ Este repositorio contiene:
 - **Documentación**: Informes, publicaciones científicas y materiales educativos.
 
 ### Estructura del Repositorio
-.
+
+```markdown
 ├── code/ # Scripts y herramientas
 ├── data/ # Conjuntos de datos
 ├── docs/ # Documentación y materiales educativos
