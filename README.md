@@ -40,10 +40,10 @@ Este repositorio contiene:
 
 ## Estructura del Repositorio
 
+.
 ├── code/ # Scripts y herramientas
 ├── data/ # Conjuntos de datos
-├── docs/ # Documentación y materiales educativos
-└── README.md # Este archivo
+└── docs/ # Documentación y materiales educativos
 
 ## Cómo Contribuir
 
