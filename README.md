@@ -38,14 +38,6 @@ Este repositorio contiene:
 - **Datos**: Conjuntos de datos abiertos relacionados con nuestros proyectos de conservación.
 - **Documentación**: Informes, publicaciones científicas y materiales educativos.
 
-### Estructura del Repositorio
-
-```markdown
-├── code/ # Scripts y herramientas
-├── data/ # Conjuntos de datos
-├── docs/ # Documentación y materiales educativos
-└── README.md # Este archivo
-
 ## Cómo Contribuir
 
 Estamos abiertos a colaboraciones y aportes de la comunidad. Aquí tienes algunas formas de contribuir:
@@ -55,6 +47,14 @@ Estamos abiertos a colaboraciones y aportes de la comunidad. Aquí tienes alguna
 - **Corrige errores**: Ayúdanos a mejorar corrigiendo errores en el código y la documentación.
 - **Comparte datos**: Sube conjuntos de datos relevantes para la conservación de la biodiversidad.
 - **Propón mejoras**: Sugiere nuevas funcionalidades o mejoras para las herramientas existentes.
+
+### Estructura del Repositorio
+
+```markdown
+├── code/ # Scripts y herramientas
+├── data/ # Conjuntos de datos
+├── docs/ # Documentación y materiales educativos
+└── README.md # Este archivo
 
 ## Contacto
 
