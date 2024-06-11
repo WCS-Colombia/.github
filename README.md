@@ -1,6 +1,6 @@
 # WCS Colombia
 
-![WCS Logo]([https://github.com/carfog81/.github/blob/main/Col_ESP_peq.jpg])  <!-- Reemplaza con el enlace al logo de WCS si tienes uno -->
+![WCS Logo]([Col_ESP_peq.jpg])  <!-- Reemplaza con el enlace al logo de WCS si tienes uno -->
 
 Bienvenido al repositorio oficial de WCS Colombia. Aquí encontrarás información sobre nuestros proyectos, datos y herramientas para la conservación de la biodiversidad en Colombia.
 
