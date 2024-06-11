@@ -6,25 +6,28 @@ Bienvenido al repositorio oficial de WCS Colombia. Aquí encontrarás informaci�
 
 ## Descripción
 
-La Wildlife Conservation Society (WCS) trabaja en Colombia para proteger la vida silvestre y sus hábitats. Nos enfocamos en la investigación científica, la gestión de áreas protegidas, la educación ambiental y la implementación de estrategias de conservación sostenible.
+La Wildlife Conservation Society (WCS) trabaja en Colombia para proteger la vida silvestre y sus hábitats. Nos enfocamos en la investigación científica, la gestión de áreas protegidas y la implementación de estrategias de conservación sostenible.
 
 ## Proyectos
 
 Nuestros principales proyectos en Colombia incluyen:
 
 1. **Conservación de Especies Amenazadas**  
-   Protección y monitoreo de especies en peligro de extinción como el jaguar, la danta de montaña y el cóndor de los Andes.
+   Protección y monitoreo de especies en peligro de extinción.
 
 2. **Gestión de Áreas Protegidas**  
    Colaboración con comunidades locales y entidades gubernamentales para la gestión efectiva de parques nacionales y reservas naturales.
 
 3. **Restauración de Ecosistemas**  
    Proyectos de reforestación y restauración de hábitats degradados.
+   
+4. **Gestión sostenible de paisajes productivos**  
+   Alternativas económicas para el aprovechamiento y conservación de ecosistemas.
+   
+5. **Investigación Científica**  
+   Estudios y monitoreos de biodiversidad para generar conomiciento.
 
-4. **Investigación Científica**  
-   Estudios y monitoreos de biodiversidad para informar políticas de conservación.
-
-5. **Educación y Sensibilización**  
+6. **Educación y Sensibilización**  
    Programas educativos y campañas de concienciación para promover la conservación de la biodiversidad.
 
 ## Uso del Repositorio
@@ -36,21 +39,20 @@ Este repositorio contiene:
 - **Documentación**: Informes, publicaciones científicas y materiales educativos.
 
 ### Estructura del Repositorio
-.
+
 ├── code/ # Scripts y herramientas
 ├── data/ # Conjuntos de datos
 ├── docs/ # Documentación y materiales educativos
-└── README.md # Este archivo
 
 ## Cómo Contribuir
 
-Estamos abiertos a colaboraciones y aportes de la comunidad. Si deseas contribuir a nuestros proyectos, por favor sigue estos pasos:
+Estamos abiertos a colaboraciones y aportes de la comunidad. Aquí tienes algunas formas de contribuir:
 
-1. Haz un fork de este repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Agregar nueva funcionalidad'`).
-4. Haz push a la rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
+- **Sube tus códigos**: Comparte scripts y herramientas útiles para nuestros proyectos de conservación.
+- **Comenta**: Deja comentarios y sugerencias en los issues y pull requests.
+- **Corrige errores**: Ayúdanos a mejorar corrigiendo errores en el código y la documentación.
+- **Comparte datos**: Sube conjuntos de datos relevantes para la conservación de la biodiversidad.
+- **Propón mejoras**: Sugiere nuevas funcionalidades o mejoras para las herramientas existentes.
 
 ## Contacto
 
