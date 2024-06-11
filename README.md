@@ -56,7 +56,7 @@ Estamos abiertos a colaboraciones y aportes de la comunidad. Aquí tienes alguna
 ├── docs/ # Documentación y materiales educativos
 └── README.md # Este archivo
 
-## Cómo Contribuir
+### Cómo Contribuir
 
 Estamos abiertos a colaboraciones y aportes de la comunidad. Aquí tienes algunas formas de contribuir:
 
