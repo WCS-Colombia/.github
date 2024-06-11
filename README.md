@@ -56,6 +56,16 @@ Estamos abiertos a colaboraciones y aportes de la comunidad. Aquí tienes alguna
 ├── docs/ # Documentación y materiales educativos
 └── README.md # Este archivo
 
+## Cómo Contribuir
+
+Estamos abiertos a colaboraciones y aportes de la comunidad. Aquí tienes algunas formas de contribuir:
+
+- **Sube tus códigos**: Comparte scripts y herramientas útiles para nuestros proyectos de conservación.
+- **Comenta**: Deja comentarios y sugerencias en los issues y pull requests.
+- **Corrige errores**: Ayúdanos a mejorar corrigiendo errores en el código y la documentación.
+- **Comparte datos**: Sube conjuntos de datos relevantes para la conservación de la biodiversidad.
+- **Propón mejoras**: Sugiere nuevas funcionalidades o mejoras para las herramientas existentes.
+
 ## Contacto
 
 Para más información, puedes contactarnos a través de:
@@ -64,4 +74,4 @@ Para más información, puedes contactarnos a través de:
 - **Sitio web**: [WCS Colombia](https://www.wcs.org/colombia)
 - **Redes sociales**:
   - Twitter: [@WCSColombia](https://twitter.com/WCSColombia)
-  - Facebook: [WCS Colombia](https://facebook.com/WCSColombia
+  - Facebook: [WCS Colombia](https://facebook.com/WCSColombia)
