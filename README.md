@@ -40,7 +40,6 @@ Este repositorio contiene:
 
 ## Estructura del Repositorio
 
-``markdown
 ├── code/ # Scripts y herramientas
 ├── data/ # Conjuntos de datos
 ├── docs/ # Documentación y materiales educativos
