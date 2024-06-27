@@ -6,7 +6,7 @@ Bienvenido al repositorio oficial de WCS Colombia. Aquí encontrarás informaci�
 
 ## Descripción
 
-La Wildlife Conservation Society (WCS) trabaja en Colombia para proteger la vida silvestre y sus hábitats. Nos enfocamos en la investigación científica, la gestión de áreas protegidas y la implementación de estrategias de conservación sostenible.
+Wildlife Conservation Society (WCS) trabaja en Colombia para proteger la vida silvestre y sus hábitats. Nos enfocamos en la investigación científica, la gestión de áreas protegidas y la implementación de estrategias de conservación sostenible.
 
 ## Proyectos
 
